@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Yeison Moncada
+🎓 Apasionado por el desarrollo web y en constante aprendizaje, siempre a sus ordenes. 
 
-<!--
-**yeison156/yeison156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Proyectos destacados
 
-Here are some ideas to get you started:
+🌼 [**Video Canción: Flores Para Ti**](https://yeison156.github.io/Video_Cancion_flores_para_ti/)  
+Sitio con animaciones, música y mensaje personalizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 **Formulario de Registro con Validaciones**  
+Formulario web conectado a backend (Node.js), validaciones personalizadas y almacenamiento en JSON.
+
+🎵 **Sitios web interactivos con JavaScript**  
+Experimentos con sonido, DOM y efectos visuales.
+
+## 👨‍💻 Sobre mí
+
+Soy un entusiasta del desarrollo web que disfruta crear sitios con alma: animaciones, música, colores y experiencia de usuario.  
+Actualmente estoy practicando HTML, CSS, JavaScript y Node.js, y cada línea de código me motiva a seguir creciendo.
+
+## 📫 Contacto
+
+📧 yeisonmoncada5@gmail.com  
+🌐 [Mi perfil en GitHub](https://github.com/yeison156)
+
+## 📊 GitHub Stats
+![Yeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeison156&show_icons=true&theme=radical)
+
