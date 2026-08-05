@@ -1,5 +1,5 @@
-# 👋 ¡Hola! Soy Yeison Moncada
-🎓 Apasionado por el desarrollo web y en constante aprendizaje, siempre a sus ordenes. 
+Mi nombre es Yeison Moncada.
+Apasionado por el desarrollo web y en constante aprendizaje, siempre a sus ordenes. 
 
 ## 🚀 Proyectos destacados
 
@@ -12,10 +12,10 @@ Formulario web conectado a backend (Node.js), validaciones personalizadas y alma
 🎵 **Sitios web interactivos con JavaScript**  
 Experimentos con sonido, DOM y efectos visuales.
 
-## 👨‍💻 Sobre mí
+### Sobre mí
 
-Soy un entusiasta del desarrollo web que disfruta crear sitios con alma: animaciones, música, colores y experiencia de usuario.  
-Actualmente estoy practicando HTML, CSS, JavaScript y Node.js, y cada línea de código me motiva a seguir creciendo.
+Soy un entusiasta del desarrollo web: animaciones, música, colores y experiencia de usuario.
+Actualmente estoy practicando **HTML, CSS, JavaScript y Node.js, PHP + Laravel + mySQL**, y cada línea de código me motiva a seguir creciendo.
 
 ## 📫 Contacto
 
