@@ -1,5 +1,5 @@
 Mi nombre es Yeison Moncada.
-Apasionado por el desarrollo web y en constante aprendizaje, siempre a sus ordenes. 
+Apasionado por el desarrollo web y en constante aprendizaje.
 
 ## 🚀 Proyectos destacados
 
