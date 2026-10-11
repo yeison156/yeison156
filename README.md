@@ -1,12 +1,12 @@
-Mi nombre es Yeison Moncada.
-Apasionado por el desarrollo web y en constante aprendizaje.
+Mi nombre es: Yeison Moncada.
+Desarrollador de software 
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-🌼 [**Video Canción: Flores Para Ti**](https://yeison156.github.io/Video_Cancion_flores_para_ti/)  
+[**Video Canción: Flores Para Ti**](https://yeison156.github.io/Video_Cancion_flores_para_ti/)  
 Sitio con animaciones, música y mensaje personalizado.
 
-📝 **Formulario de Registro con Validaciones**  
+**Formulario de Registro con Validaciones**  
 Formulario web conectado a backend (Node.js), validaciones personalizadas y almacenamiento en JSON.
 
 🎵 **Sitios web interactivos con JavaScript**  
